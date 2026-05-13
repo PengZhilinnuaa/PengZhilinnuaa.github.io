@@ -13,6 +13,6 @@ I am very fortunate to be advised by Lecturer [Haochen Shi](https://faculty.nuaa
 
 I have participated in several projects, including [the National University Engineering Practice and Innovation Competition](http://gcxl.edu.cn/new/index.html) (my team earned a silver award in the temperature difference vehicle track) and a National College Student Innovation and Entrepreneurship Training Program focused on developing an intelligent chess game robot system based on a three-axis gantry slide.
 
-You can find my CV here: [Peng Zhilin's Curriculum Vitae(En)](../files/RenderCV_EngineeringResumes.pdf) /[[Peng Zhilin's Curriculum Vitae(Ch)](../files/个人简历（中文）.pdf).
+You can find my CV here: [Peng Zhilin's Curriculum Vitae(En)](../files/RenderCV_EngineeringResumes.pdf) /[[Peng Zhilin's Curriculum Vitae(Ch)](../files/CV.pdf).
 
 [Email](peng.zhilin@nuaa.edu.cn) / [Github](https://github.com/PengZhilinnuaa) / [Wechat](../images/wechat.jpg) / [QQ](../images/qq.jpg) / [CSDN](https://blog.csdn.net/2301_80107410?type=blog)
